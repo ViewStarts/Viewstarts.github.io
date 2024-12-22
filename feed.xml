@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>愿此行，终抵群星</title>
+        <link>generat/</link>
+        <description>ViewStar</description>
+        <lastBuildDate>Sun, 22 Dec 2024 16:54:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>愿此行，终抵群星</title>
+            <url>https://avatars.githubusercontent.com/u/95892717?v=4</url>
+            <link>generat/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © ViewStar</copyright>
+        <atom:link href="generat/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Great Idea]]></title>
+            <link>generat/posts/AGreatIdea</link>
+            <guid>generat/posts/AGreatIdea</guid>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>A Great Idea</h2>
+<p>​	大家好，我是ViewStar，最近刚入职半个月，工作的事情许是打扰了自己很久。一直准备的计划都没有实行。不过也不是完全没有收获，一直给自己准备了一些新坑，比如说</p>
+<br/><p>访问 <a href="generat/posts/AGreatIdea" target="_blank">generat/posts/AGreatIdea</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (ViewStar)</author>
+        </item>
+        <item>
+            <title><![CDATA[Aprile Encounter]]></title>
+            <link>generat/posts/Aprile Encounter</link>
+            <guid>generat/posts/Aprile Encounter</guid>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Aprile Encounter</h2>
+<p>​	Aprile是四月的意思，四月在我有史以来的意识中，他对于中国人的意义，似乎只有四月的那个清明节。以及我的母亲，从小在我耳边背诵的古诗:清明时节雨纷纷，</p>
+<br/><p>访问 <a href="generat/posts/Aprile Encounter" target="_blank">generat/posts/Aprile Encounter</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (ViewStar)</author>
+        </item>
+    </channel>
+</rss>

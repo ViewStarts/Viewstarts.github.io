@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "愿此行，终抵群星",
+    "home_page_url": "generat/",
+    "feed_url": "generat/feed.json",
+    "description": "ViewStar",
+    "icon": "https://avatars.githubusercontent.com/u/95892717?v=4",
+    "author": {
+        "name": "ViewStar",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>A Great Idea</h2>\n<p>​\t大家好，我是ViewStar，最近刚入职半个月，工作的事情许是打扰了自己很久。一直准备的计划都没有实行。不过也不是完全没有收获，一直给自己准备了一些新坑，比如说</p>\n<br/><p>访问 <a href=\"generat/posts/AGreatIdea\" target=\"_blank\">generat/posts/AGreatIdea</a> 阅读全文。</p>",
+            "url": "generat/posts/AGreatIdea",
+            "title": "A Great Idea",
+            "date_modified": "2024-11-29T00:00:00.000Z",
+            "date_published": "2024-11-29T00:00:00.000Z",
+            "author": {
+                "name": "ViewStar",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>Aprile Encounter</h2>\n<p>​\tAprile是四月的意思，四月在我有史以来的意识中，他对于中国人的意义，似乎只有四月的那个清明节。以及我的母亲，从小在我耳边背诵的古诗:清明时节雨纷纷，</p>\n<br/><p>访问 <a href=\"generat/posts/Aprile Encounter\" target=\"_blank\">generat/posts/Aprile Encounter</a> 阅读全文。</p>",
+            "url": "generat/posts/Aprile Encounter",
+            "title": "Aprile Encounter",
+            "date_modified": "2024-10-17T00:00:00.000Z",
+            "date_published": "2024-10-17T00:00:00.000Z",
+            "author": {
+                "name": "ViewStar",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>generat/</id>
+    <title>愿此行，终抵群星</title>
+    <updated>2024-12-22T16:54:26.409Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>ViewStar</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="generat/"/>
+    <link rel="self" href="generat/atom.xml"/>
+    <subtitle>ViewStar</subtitle>
+    <logo>https://avatars.githubusercontent.com/u/95892717?v=4</logo>
+    <icon>generat/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © ViewStar</rights>
+    <entry>
+        <title type="html"><![CDATA[A Great Idea]]></title>
+        <id>generat/posts/AGreatIdea</id>
+        <link href="generat/posts/AGreatIdea"/>
+        <updated>2024-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>A Great Idea</h2>
+<p>​	大家好，我是ViewStar，最近刚入职半个月，工作的事情许是打扰了自己很久。一直准备的计划都没有实行。不过也不是完全没有收获，一直给自己准备了一些新坑，比如说</p>
+<br/><p>访问 <a href="generat/posts/AGreatIdea" target="_blank">generat/posts/AGreatIdea</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>ViewStar</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-11-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aprile Encounter]]></title>
+        <id>generat/posts/Aprile Encounter</id>
+        <link href="generat/posts/Aprile Encounter"/>
+        <updated>2024-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Aprile Encounter</h2>
+<p>​	Aprile是四月的意思，四月在我有史以来的意识中，他对于中国人的意义，似乎只有四月的那个清明节。以及我的母亲，从小在我耳边背诵的古诗:清明时节雨纷纷，</p>
+<br/><p>访问 <a href="generat/posts/Aprile Encounter" target="_blank">generat/posts/Aprile Encounter</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>ViewStar</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-10-17T00:00:00.000Z</published>
+    </entry>
+</feed>
